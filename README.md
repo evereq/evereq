@@ -8,7 +8,7 @@ I'm building a [transparent IT agency](https://ever.tech) a few [large Open-Sour
 
 - :muscle: Currently running transparent IT agency - https://ever.tech.
 - :gift_heart: Co-author of multiple open source projects, including https://github.com/ever-co/ever (eCommerce) and https://github.com/ever-co/gauzy (ERP/CRM).
-- :moneybag: Looking for new clients, [contact me](mailto:ever@ever.tech) please.
+- :moneybag: Looking for new clients, [contact me](mailto:ever@ever.tech) please or hire via [Upwork](https://upwork.com/fl/ever).
 
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
