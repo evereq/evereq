@@ -6,8 +6,8 @@ I'm building a [transparent IT agency](https://ever.tech) a few [large Open-Sour
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evereq) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evereq)
 
-- :muscle: Currently running transparent IT agency - https://ever.tech and 
-- :gift_heart: Co-author of multiple open source projects, including https://github.com/ever-co/ever (eCommerce) and https://github.com/ever-co/gauzy (ERP/CRM)
+- :muscle: Currently running transparent IT agency - https://ever.tech.
+- :gift_heart: Co-author of multiple open source projects, including https://github.com/ever-co/ever (eCommerce) and https://github.com/ever-co/gauzy (ERP/CRM).
 - :moneybag: Looking for new clients, [contact me](mailto:ever@ever.tech) please.
 
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
