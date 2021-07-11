@@ -8,8 +8,8 @@
 
 Building a [transparent IT agency](https://ever.tech) and a few large [Open-Source projects for On-Demand & Sharing Economies](https://github.com/ever-co).
 
-- :muscle: Currently running IT agency - https://ever.tech.
-- :gift_heart: Co-author / maintainer of multiple open source projects, including:  
+- :muscle: Running IT agency - https://ever.tech.
+- :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
   a) https://github.com/ever-co/ever (eCommerce) - 1000+ 🌟  
   b) https://github.com/ever-co/gauzy (ERP/CRM/HRM) - 400+ 🌟  
   c) https://github.com/ever-co/ever-traduora (Translations Management) - 1500+ 🌟
