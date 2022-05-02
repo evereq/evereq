@@ -23,10 +23,6 @@ Building a [transparent IT agency](https://ever.tech) and a few large [Open-Sour
 
 ![Evereq's github stats](https://github-readme-stats.vercel.app/api?username=evereq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<summary>:+1: <b>Github Karma</b></summary><br/>
-
-[![Source Karma badge for @evereq](https://sourcekarma-og.vercel.app/api/evereq/github)](https://sourcekarma.vercel.app/evereq)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evereq)
 
 ---
