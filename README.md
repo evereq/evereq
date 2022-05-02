@@ -1,6 +1,6 @@
 # Hi, I'm Ruslan (aka Evereq) :computer:<->:heart:
 
-<summary>:rocket: <b>About Me</b></summary><br/>
+🚀 <b>About Me</b>
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/evereq) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evereq) 
@@ -15,11 +15,11 @@ Building a [transparent IT agency](https://ever.tech) and a few large [Open-Sour
   c) https://github.com/ever-co/ever-traduora (Translations Management) - 1600+ 🌟
 - :moneybag: Always looking for new clients & partners, [contact me](mailto:ever@ever.tech) please or hire via [Upwork](https://upwork.com/fl/ever).
 
-<summary>&#127942 <b>GitHub Awards</b></summary><br/>
+🏆 <b>GitHub Awards</b>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=evereq)
 
-<summary>:star: <b>GitHub Stars</b></summary><br/>
+⭐ <b>GitHub Stars</b>
 
 ![Evereq's github stats](https://github-readme-stats.vercel.app/api?username=evereq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
