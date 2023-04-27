@@ -8,7 +8,7 @@
 
 Building a [transparent IT agency](https://ever.tech) and a few large [Open-Source projects for On-Demand & Sharing Economies](https://github.com/ever-co).
 
-- :muscle: Running IT agency - see https://ever.tech and hire on [Upwork](https://upwork.com/ag/ever).
+- :muscle: Running IT agency - see https://ever.tech and hire us on [Upwork](https://upwork.com/ag/ever).
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
   a) https://github.com/ever-co/ever-demand (eCommerce) - 🌟1400+     
