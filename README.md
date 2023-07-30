@@ -11,10 +11,11 @@ Building a [transparent IT agency](https://ever.tech) and a few large [Open-Sour
 - :muscle: Running IT agency - see https://ever.tech and hire us on [Upwork](https://upwork.com/ag/ever).
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
-  a) https://github.com/ever-co/ever-demand (eCommerce) - 🌟1450+     
-  b) https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟1150+   
-  c) https://github.com/ever-co/ever-gauzy-teams (Work and PM Platform) - 🌟**NEW !**  
-  d) https://github.com/ever-co/ever-traduora (Translations Management) - 🌟1800+   
+
+  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟**NEW !**  
+  - https://github.com/ever-co/ever-demand (eCommerce) - 🌟1500+    
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟1200+    
+  - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟1800+  
 
 - :moneybag: Always looking for new clients & partners, [contact me](mailto:ever@ever.tech) please or hire via [Upwork](https://upwork.com/fl/ever).
 
