@@ -12,8 +12,8 @@ Building a [transparent IT agency](https://ever.tech) and a few large [Open-Sour
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
 
-  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟100+ **NEW! 🔥🔥🔥**  
-  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟1700+  
+  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟150+ **NEW! 🔥🔥🔥**  
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟1800+  
   - https://github.com/ever-co/ever-demand (eCommerce) - 🌟1600+  
   - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟1900+  
 
