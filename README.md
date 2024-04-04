@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evereq) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evereq)
 
-Building a [transparent IT agency](https://ever.tech) and a few large [Open-Source projects for On-Demand & Sharing Economies](https://github.com/ever-co).
+Building a [Transparent IT agency Ever Tech](https://ever.tech) and [Ever® - Open Platform for Collaborative, On-Demand and Sharing Economies.](https://github.com/ever-co).
 
 - :muscle: Running IT agency - see https://ever.tech and hire us on [Upwork](https://upwork.com/ag/ever).
 
