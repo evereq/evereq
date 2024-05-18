@@ -8,7 +8,7 @@
 
 Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - Open Platform for Collaborative, On-Demand and Sharing Economies.](https://github.com/ever-co).
 
-- :muscle: Running an Open IT Dev Shop - see https://ever.tech and hire us on [Upwork](https://upwork.com/ag/ever).
+- :muscle: Running an Open IT Dev Shop - see https://ever.tech and [Hire Us at Upwork](https://upwork.com/ag/ever).
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
 
@@ -17,7 +17,7 @@ Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - Open Pla
   - https://github.com/ever-co/ever-demand (eCommerce) - 🌟1600+  
   - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟1950+  
 
-- :moneybag: Always looking for new clients & partners, [contact me](mailto:ever@ever.tech) please or hire us via [Upwork](https://upwork.com/fl/ever).
+- :moneybag: Always looking for new clients & partners, [Contact Me](mailto:ever@ever.tech) please or [Hire Me at Upwork](https://upwork.com/fl/ever).
 
 🏆 <b>GitHub Awards</b>
 
