@@ -6,16 +6,16 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evereq) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evereq)
 
-Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - Open Platform for Collaborative, On-Demand and Sharing Economies.](https://github.com/ever-co).
+Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - The Everything Platform for Businesses™](https://github.com/ever-co).
 
 - :muscle: Running an Open IT Dev Shop - see https://ever.tech and [Hire Us at Upwork](https://upwork.com/ag/ever).
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
 
-  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟200+ **NEW! 🔥🔥🔥**  
-  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟2000+  
-  - https://github.com/ever-co/ever-demand (eCommerce) - 🌟1600+  
-  - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟1950+  
+  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟280+ **NEW! 🔥🔥🔥**  
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟2200+  
+  - https://github.com/ever-co/ever-demand (eCommerce) - 🌟1700+  
+  - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟2000+  
 
 - :moneybag: Always looking for new clients & partners, [Contact Me](mailto:ever@ever.tech) please or [Hire Me at Upwork](https://upwork.com/fl/ever).
 
