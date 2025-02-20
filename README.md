@@ -12,9 +12,10 @@ Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - The Ever
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
 
-  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟280+ **NEW! 🔥🔥🔥**  
-  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM) - 🌟2300+  
-  - https://github.com/ever-co/ever-demand (eCommerce) - 🌟1700+  
+  - https://github.com/ever-co/ever-rec (Screen Capture, Screen Recording) - **HOT! 🔥🔥🔥**
+  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟330+ **NEW! 🎆🎆🎆**  
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟2450+  
+  - https://github.com/ever-co/ever-demand (eCommerce Platform) - 🌟1700+  
   - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟2000+  
 
 - :moneybag: Always looking for new clients & partners, [Contact Me](mailto:ever@ever.tech) please or [Hire Me at Upwork](https://upwork.com/fl/ever).
