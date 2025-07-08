@@ -6,11 +6,9 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evereq) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evereq)
 
-Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - The Everything Platform for Businesses™](https://github.com/ever-co).
+- :muscle: Co-founder @ IT Dev Shop - see https://ever.tech and [Hire Us at Upwork](https://upwork.com/ag/ever).
 
-- :muscle: Running an Open IT Dev Shop - see https://ever.tech and [Hire Us at Upwork](https://upwork.com/ag/ever).
-
-- :gift_heart: Co-author / Owner / Maintainer of multiple open source projects, including:  
+- :gift_heart: Co-author / Owner / Maintainer of multiple OSS projects, together referred to as [Ever® - The Everything Platform for Businesses™](https://github.com/ever-co):
 
   - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟3000+  :rocket: :rocket: :rocket: 
   - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟400+ **NEW! 🎆🎆🎆**  
@@ -19,7 +17,8 @@ Building an [Open IT Agency Ever Tech](https://ever.tech) and [Ever® - The Ever
   - https://github.com/ever-co/ever-rec (Screen Capture, Screen Recording) - **HOT! 🔥🔥🔥**  
   - https://github.com/ever-works (Awesome Directories) - **HOT! 🔥🔥🔥**  
 
-- :moneybag: Always looking for new clients & partners, [Contact Me](mailto:ever@ever.tech) please or [Hire Me at Upwork](https://upwork.com/fl/ever).
+- :moneybag: Have a project you'd like me to work on? [Hire Me at Upwork](https://upwork.com/fl/ever).
+- :moneybag: Looking for a long-term contractor, part-time, or full-time tech leader? [Connect with me on LinkedIn](https://linkedin.com/in/evereq).
 
 🏆 <b>GitHub Awards</b>
 
