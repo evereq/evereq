@@ -1,5 +1,7 @@
 # Hi, I'm Ruslan (aka Evereq) :computer:<->:heart:
 
+<a href="https://trendshift.io/developers/202" target="_blank"><img src="https://trendshift.io/api/badge/developers/202" alt="evereq | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 🚀 <b>About Me</b>
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/evereq) 
