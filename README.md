@@ -12,12 +12,12 @@
 
 - :gift_heart: Co-author / Owner / Maintainer of multiple OSS projects, together referred to as [Ever® - The Everything Platform for Businesses™](https://github.com/ever-co):
 
-  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟3000+  :rocket: :rocket: :rocket: 
-  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟400+ **NEW! 🎆🎆🎆**  
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟3700+  :rocket: :rocket: :rocket: 
+  - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟500+ **NEW! 🎆🎆🎆**  
   - https://github.com/ever-co/ever-demand (eCommerce Platform) - 🌟1800+  
-  - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟2000+  
+  - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟2100+  
   - https://github.com/ever-co/ever-rec (Screen Capture, Screen Recording) - **HOT! 🔥🔥🔥**  
-  - https://github.com/ever-works (Awesome Directories) - **HOT! 🔥🔥🔥**  
+  - https://github.com/ever-works (An open agentic runtime, soon) - **HOT! 🔥🔥🔥**  
 
 - :moneybag: Have a project you'd like me to work on? [Hire Me at Upwork](https://upwork.com/fl/ever).
 - :moneybag: Looking for a long-term contractor, part-time, or full-time tech leader? [Connect with me on LinkedIn](https://linkedin.com/in/evereq).
