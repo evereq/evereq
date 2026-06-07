@@ -24,7 +24,7 @@
 
 🏆 <b>GitHub Awards</b>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=evereq)
+![Github Trophy](https://github-profile-trophy-two-khaki.vercel.app/?username=evereq)
 
 ⭐ <b>GitHub Stars</b>
 
