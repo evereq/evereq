@@ -4,27 +4,29 @@
 
 🚀 <b>About Me</b>
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/evereq) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evereq) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evereq)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/evereq) 
 
-- :muscle: Co-founder @ IT Dev Shop - see https://ever.tech and [Hire Us at Upwork](https://upwork.com/ag/ever).
+💝 Co-author / Owner / Maintainer of multiple OSS projects:
 
-- :gift_heart: Co-author / Owner / Maintainer of multiple OSS projects, together referred to as [Ever® - The Everything Platform for Businesses™](https://github.com/ever-co):
+  - https://github.com/ever-works/ever-works (An open agentic runtime) - **HOT! 🔥🔥🔥**
 
-  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟3700+  :rocket: :rocket: :rocket: 
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟3800+  :rocket: :rocket: :rocket: 
   - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟500+ **NEW! 🎆🎆🎆**  
   - https://github.com/ever-co/ever-demand (eCommerce Platform) - 🌟1800+  
   - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟2100+  
   - https://github.com/ever-co/ever-rec (Screen Capture, Screen Recording) - **HOT! 🔥🔥🔥**  
-  - https://github.com/ever-works (An open agentic runtime, soon) - **HOT! 🔥🔥🔥**  
+  
+💪 Co-founder @ IT Dev Shop - see https://ever.tech and [Hire Us at Upwork](https://upwork.com/ag/ever).
 
-- :moneybag: Have a project you'd like me to work on? [Hire Me at Upwork](https://upwork.com/fl/ever).
-- :moneybag: Looking for a long-term contractor, part-time, or full-time tech leader? [Connect with me on LinkedIn](https://linkedin.com/in/evereq).
+💰 Have a project you'd like me to work on? [Hire Me at Upwork](https://upwork.com/fl/ever).  
+
+🤝 Looking for a long-term contractor, part-time, or full-time tech leader? [Connect with me on LinkedIn](https://linkedin.com/in/evereq).
 
 🏆 <b>GitHub Awards</b>
 
-![Github Trophy](https://github-profile-trophy-two-khaki.vercel.app/?username=evereq)
+![Github Trophy](https://gh-trophy.cdnsoft.net?username=evereq)
 
 ⭐ <b>GitHub Stars</b>
 
