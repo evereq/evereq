@@ -12,7 +12,7 @@
 
   - https://github.com/ever-works/ever-works (An open agentic runtime) - **HOT! 🔥🔥🔥**
 
-  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟3800+  :rocket: :rocket: :rocket: 
+  - https://github.com/ever-co/ever-gauzy (ERP/CRM/HRM Platform) - 🌟7200+  :rocket: :rocket: :rocket: 
   - https://github.com/ever-co/ever-teams (Work and Project Management) - 🌟500+ **NEW! 🎆🎆🎆**  
   - https://github.com/ever-co/ever-demand (eCommerce Platform) - 🌟1800+  
   - https://github.com/ever-co/ever-traduora (Translations Management) - 🌟2100+  
