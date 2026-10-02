@@ -26,7 +26,7 @@
 
 🏆 <b>GitHub Awards</b>
 
-![Github Trophy](https://gh-trophy.cdnsoft.net?username=evereq)
+![Github Trophy](https://trophy-github.ever.co/?username=evereq&theme=darkhub)
 
 ⭐ <b>GitHub Stars</b>
 
